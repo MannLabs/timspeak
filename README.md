@@ -21,7 +21,7 @@ TimsPeak is an open-source Python package to detect and centroid peaks in TIMS-T
 
 ## License
 
-TODO.
+Timspeak is licensed under apache license.
 
 ## Installation
 
