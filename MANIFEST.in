@@ -1,0 +1,3 @@
+recursive-include timspeak *
+include LICENSE.txt
+include README.md

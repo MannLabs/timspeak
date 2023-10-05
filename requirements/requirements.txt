@@ -1,0 +1,2 @@
+zarr==2.14.2
+alphatims==1.0.7

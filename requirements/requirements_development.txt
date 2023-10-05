@@ -1,0 +1,16 @@
+coverage~=5.5
+unittest-xml-reporting==3.0.4
+setuptools~=57.0.0
+twine~=3.8.0
+packaging~=21.3
+ipykernel~=6.4.0
+bumpversion==0.6.0
+pipdeptree==2.1.0
+
+# TODO: keep these?
+# jupyter==1.0.0
+# jupyter_contrib_nbextensions==0.5.1
+# pyinstaller==4.2
+# autodocsumm==0.2.6
+# sphinx-rtd-theme==0.5.2
+# -r common.txt
